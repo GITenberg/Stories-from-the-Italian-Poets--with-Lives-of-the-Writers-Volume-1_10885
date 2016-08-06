@@ -1,0 +1,47 @@
+_repo: Stories-from-the-Italian-Poets--with-Lives-of-the-Writers-Volume-1_10885
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Pulci, Luigi
+    alias: Pulci, Aluisi
+    birthdate: 1432
+    deathdate: 1484
+    gutenberg_agent_id: '6264'
+    url: http://www.gutenberg.org/2009/agents/6264
+    wikipedia: http://en.wikipedia.org/wiki/Luigi_Pulci
+  - agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+creator:
+  author:
+    agent_name: Hunt, Leigh
+    alias: Hunt, James Henry Leigh
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '3612'
+    url: http://www.gutenberg.org/2009/agents/3612
+    wikipedia: http://en.wikipedia.org/wiki/James_Henry_Leigh_Hunt
+description: ''
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, Italian -- Biography'
+- !lcsh 'Italian poetry -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'DANTE. Critical notice of his life and genius -- The Italian pilgrims
+  progress: I. The Journey through Hell II. Purgatory. III. Heaven -- PULCI. Critical
+  notice of his life and genius -- Humours of giants -- The battle of Roncesvalles.'
+title: 'Stories from the Italian Poets: with Lives of the Writers, Volume 1'
+url: http://www.gutenberg.org/ebooks/10885
