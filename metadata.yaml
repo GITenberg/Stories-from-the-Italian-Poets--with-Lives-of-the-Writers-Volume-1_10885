@@ -1,5 +1,5 @@
 _repo: Stories-from-the-Italian-Poets--with-Lives-of-the-Writers-Volume-1_10885
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Pulci, Luigi
@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '507'
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hunt, Leigh
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3612
     wikipedia: http://en.wikipedia.org/wiki/James_Henry_Leigh_Hunt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10885#Stories-from-the-Italian-Poets--with-Lives-of-the-Writers-Volume-1
 gutenberg_bookshelf: Italy
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
